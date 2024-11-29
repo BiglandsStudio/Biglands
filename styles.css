@@ -49,7 +49,7 @@ header .nav-links a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(to right, #6c63ff, #4a47a3);
+    background: url('https://source.unsplash.com/1920x1080/?technology,abstract') no-repeat center center/cover;
     color: white;
     text-align: center;
     padding: 100px 20px;
@@ -57,7 +57,6 @@ header .nav-links a:hover {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-size: cover;
     background-attachment: fixed;
 }
 .hero-content h2 {
